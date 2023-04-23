@@ -12,7 +12,7 @@ Benjamin Fernandez - New Machine Learning Technique
 * How do different factors affect life expectancy?
 * How can we explain Singapore’s aging population?
 
---------------------------------v-code-v------------------------------------------------------------
+
 ## Preparation of Dataset ##
 We started by cleaning the dataset, by removing incomplete entries (NA and 0) and non-numerical rows. 
 
