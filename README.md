@@ -4,9 +4,9 @@
 This is a mini project for SC1015. We analysed a dataset on [Life Expectancy](https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who) after thinking about the aging population problem in Singapore.
 
 ## Contributors ##
-Goh Yi Heng - Cleaning & Preparing Data, Correlation 
-Anthony Soon - Linear Regression, Plotting of Train & Test Data
-Benjamin Fernandez - New Machine Learning Technique
+* Goh Yi Heng - Cleaning & Preparing Data, Correlation 
+* Anthony Soon - Linear Regression, Plotting of Train & Test Data
+* Benjamin Fernandez - New Machine Learning Technique
 
 ## Problem Definition ##
 * How do different factors affect life expectancy?
